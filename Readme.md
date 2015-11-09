@@ -35,7 +35,7 @@ console.log("Hello world");
 add more here...
 
 //how to do else statemnet
-if(> us);
+if(>us);
   return("Hye");
   
 else(!words)
