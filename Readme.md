@@ -47,6 +47,8 @@ else(!words)
 I my folder i created a test file 
 Here is my test :
 
+```javascript
+//test for cars
 var assert = require("assert");
 
 describe("In the feery kata", function(){
@@ -57,7 +59,7 @@ describe("In the feery kata", function(){
 	assert.equal("car", "car");
 	});
 });
-
+```
 ### If things get to long...
 
 * [Todo something useful](notes/my_file.md) A short description here
