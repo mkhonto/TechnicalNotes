@@ -1,4 +1,4 @@
-# My Technical Notes
+# Mkhonto's Technical Notes
 
 ## Workshops
 
