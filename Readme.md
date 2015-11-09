@@ -30,17 +30,19 @@ Notes on things I learned & snippets of code that will make my life easier
 //how to do if statement
 if(!me);
 console.log("Hello world");
+```
 
 ### A note about something else
 add more here...
 
+```javascript
 //how to do else statemnet
 if(>us);
   return("Hye");
   
 else(!words)
   return("what is it");
-
+```
   
 
 ### If things get to long...
