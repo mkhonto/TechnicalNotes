@@ -40,8 +40,7 @@ function hello(words){
 if(!words)
   return("what is it");
 }
-  return("fail");
-}
+
   
 
 ### If things get to long...
