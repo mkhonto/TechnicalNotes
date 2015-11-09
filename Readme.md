@@ -27,19 +27,19 @@ Notes on things I learned & snippets of code that will make my life easier
 ```javascript
 // how do I print to the console again?
 
-//how to do
-function request(words){
-return("Hello world");
-}``
+//how to do if statement
+if(!me);
+console.log("Hello world");
 
 ### A note about something else
 add more here...
 
-//how to do if statemnet
-function hello(words){
-if(!words)
+//how to do else statemnet
+if(> us);
+  return("Hye");
+  
+else(!words)
   return("what is it");
-}
 
   
 
