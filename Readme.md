@@ -43,7 +43,20 @@ if(>us);
 else(!words)
   return("what is it");
 ```
-  
+## how to test Feery using mocha
+I my folder i created a test file 
+Here is my test :
+
+var assert = require("assert");
+
+describe("In the feery kata", function(){
+	it("I should be able to create cars", function(){
+	//assemble
+	//act
+	//assert
+	assert.equal("car", "car");
+	});
+});
 
 ### If things get to long...
 
