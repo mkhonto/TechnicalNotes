@@ -47,4 +47,4 @@ else(!words)
 
 * [Todo something useful](notes/my_file.md) A short description here
 * [Create a basic Express app](notes/my_file.md) How to get going with express
-* [Mkhonto's link](notes/mkhonto.md) how to link files
+* [Mkhonto link](notes/mkhonto.md) how to link files
