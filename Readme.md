@@ -26,10 +26,23 @@ Notes on things I learned & snippets of code that will make my life easier
 
 ```javascript
 // how do I print to the console again?
-```
+
+//how to do
+function request(words){
+return("Hello world");
+}``
 
 ### A note about something else
 add more here...
+
+//how to do if statemnet
+function hello(words){
+if(!words)
+  return("what is it");
+}
+  return("fail");
+}
+  
 
 ### If things get to long...
 
